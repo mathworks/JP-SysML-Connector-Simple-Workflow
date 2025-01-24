@@ -18,7 +18,7 @@ Requires MATLAB release R2024a Update 2 or newer
 <!-- Add the "File Exchange" icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 <!-- Add the "Open in MATLAB Online" icon to the README to open a particular file on MATLAB Online --> 
 # Introduction (English)
-![Image](https://github.com/user-attachments/assets/7ee64b48-9bbb-4d91-a6be-f2caff5e3b1e){width=480 height=270}
+![Image](https://github.com/user-attachments/assets/7ee64b48-9bbb-4d91-a6be-f2caff5e3b1e)
 
 This sample shows how to import XMI(XML Metadata Interchang) information into the MathWorks environment and connect it to the simulation environment.
 
@@ -34,7 +34,7 @@ The SysML Connector package supports SysML1.x. MathWorks plans to support the Ob
 You can check the correspondence between the ATiA Magic Draw model definitions and the MathWorks tool models in the SysML Connector Help Page.
 
 # Introduction (Japanese)
-![Image](https://github.com/user-attachments/assets/c9e0e68a-5b93-47e2-ad77-46a777d4d33b){width=480 height=270}
+![Image](https://github.com/user-attachments/assets/c9e0e68a-5b93-47e2-ad77-46a777d4d33b)
 
 このサンプルはMathWorks環境にXMIのモデル情報をインポートし、シミュレーション環境につなげる例を示すものです。
 + システムモデルのデータを**System Composer&trade;**　モデルとしてインポートし、内部ブロック図のようなアーキテクチャモデルを定義できるようにします。
