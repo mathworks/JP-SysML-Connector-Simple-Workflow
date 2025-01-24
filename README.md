@@ -1,5 +1,5 @@
 # JPSysMLConnectorSimpleWorkflow
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=owner/title&project=title.prj&file=example.mlx) 
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/179574-jp-sysml-connector-simple-workflow) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=owner/title&project=title.prj&file=example.mlx) 
 
 Let's try importing XMI (XML Metadata Interchange) files into **System Composer &trade;**, a MathWorks tool that can describe architecture models.
 
