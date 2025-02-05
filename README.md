@@ -31,7 +31,7 @@ https://jp.mathworks.com/products/sysml.html
 
 The SysML Connector package supports SysML1.x. MathWorks plans to support the Object Management Group’s&reg; SysML v2 standard. Current users of System Composer can map many capabilities directly to equivalent concepts in SysML v2.
 
-You can check the correspondence between the ATiA Magic Draw model definitions and the MathWorks tool models in the SysML Connector Help Page.
+You can check the correspondence between the XMI model definitions and the MathWorks tool models in the SysML Connector Help Page.
 
 # Introduction (Japanese)
 ![Image](https://github.com/user-attachments/assets/c9e0e68a-5b93-47e2-ad77-46a777d4d33b)
