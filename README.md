@@ -52,7 +52,7 @@ XMIモデル定義とMathWorksツールモデルの対応については、SysML
 
 ## Getting Started (English)
 
-+ If you want try import from XMI:
++ Case1: If you want try import from XMI:
 
 0. Install SysML Connector : https://jp.mathworks.com/products/sysml.html
 1. Start MATLAB
@@ -65,13 +65,23 @@ XMIモデル定義とMathWorksツールモデルの対応については、SysML
 6. Click ”Import”
 
 
-+ If you want to run a model that is already linked to Simulink and can be simulated:
++ Case2: If you want to run a model that is already linked to Simulink and can be simulated:
 1. Open SysMLArchModel/SysMLArchModel.prj
 2. Open ElectricThrottleControl.slx
 3. Run Simulation.
 
++ Case 3: You want to run a simulation from a test case defined in Simulink Test:
+
+1. open SysMLArchModel/SysMLArchModel.prj
+Open TestFile/TestManagerFile.mldatx in the project 3.
+3. select a test case from the test browser
+　TestmanagerFile->Response Performance Test->Step Response Test
+4. Right-click on the test case “Step Response Test” and select “Run
+5. The screen changes to “Results and Artifacts” and the simulation based on the test case is executed.
+
+
 ## Getting Started (Japanese)
-+ XMIからのインポートを試したい場合：
++ Case1: XMIからのインポートを試したい場合：
 
 1. SysMLコネクタをインストール：
 2. MATLABを起動
@@ -81,10 +91,21 @@ XMIモデル定義とMathWorksツールモデルの対応については、SysML
 6. 出力ディレクトリを選択
 7. 「インポート」をクリック
 
-+ すでにSimulinkと連携してシミュレーション可能になったモデルを実行してみたい場合：
++ Case2: すでにSimulinkと連携してシミュレーション可能になったモデルを実行してみたい場合：
+
 1. SysMLArchModel/SysMLArchModel.prjを開く
 2. ElectricThrottleControl.slxを開く
 3. シミュレーションを実行する。
+
++ Case3: Simulink Testで定義したテストケースからシミュレーションを実行したい場合：
+
+1. SysMLArchModel/SysMLArchModel.prjを開く
+2. プロジェクト内のTestFile/TestManagerFile.mldatxを開く
+3. テストブラウザーからテストケースを選択する
+　TestmanagerFile->応答性能テストー＞ステップ応答テスト
+4.テストケース「ステップ応答テスト」を右クリックし、「実行」を選択
+5.画面が「結果とアーティファクト」に切り替わり、テストケースに基づくシミュレーションが実行される
+　 
 
 ## License
 <!--- Make sure you have a License.txt within your Repo --->
