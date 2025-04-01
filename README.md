@@ -3,8 +3,8 @@
 
 Let's try importing XMI (XML Metadata Interchange) files into **System Composer &trade;**, a MathWorks tool that can describe architecture models.
 
-※本リポジトリのファイルをダウンロードしたい場合は[File Exchangeからのダウンロード](https://jp.mathworks.com/matlabcentral/fileexchange/179574-jp-sysml-connector-simple-workflow
-)をお試しください。[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/179574-jp-sysml-connector-simple-workflow)
+※本リポジトリのファイルをダウンロードしたい場合は[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/179574-jp-sysml-connector-simple-workflow)[からのダウンロード](https://jp.mathworks.com/matlabcentral/fileexchange/179574-jp-sysml-connector-simple-workflow
+)をお試しください。
 
 ## MathWorks Products (https://www.mathworks.com)
 
