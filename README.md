@@ -56,7 +56,7 @@ XMIモデル定義とMathWorksツールモデルの対応については、SysML
 
 0. Install SysML Connector : https://jp.mathworks.com/products/sysml.html
 1. Start MATLAB
-2. Select Sys ML Connector from the App
+2. Select Sys ML Connector from the App or execute "SysMLConnector.app" at MATLAB
 3. Click import
 4. Select Source SysML Models
 (/SystemModels
@@ -83,9 +83,9 @@ Open TestFile/TestManagerFile.mldatx in the project 3.
 ## Getting Started (Japanese)
 + Case1: XMIからのインポートを試したい場合：
 
-1. SysMLコネクタをインストール：
+1. SysMLConnectorをインストール：
 2. MATLABを起動
-3. アプリケーションからSys MLコネクタを選択
+3. アプリケーションからSys MLコネクタを選択　もしくは　MATLABで "SysMLConnector.app"　コマンドを実行
 4. インポートをクリック
 5. ソースSysMLモデルを選択（/SystemModels/ElectricThrottleControlSysMLModel.xmlまたは/SystemModels/ElectricThrottleControlSysMLModel.mdzip
 6. 出力ディレクトリを選択
